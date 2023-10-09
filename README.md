@@ -1,0 +1,2 @@
+# CMOS-OV7670-SCCB-intefacing-and-configuration-on-FPGA-
+FOR CMOS OV7670 FPGA INTERFACING: RGB444
